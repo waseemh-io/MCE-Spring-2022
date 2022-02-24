@@ -3,6 +3,7 @@
 
 <p align="center">Vaughn College of Aeronautics and Technology</p>
 <p align="center">Engineering and Technology - Spring 2021</p>
+<p align="center">Due: March 16th, 2022</p>
 
 #### Question #1
 Given a list of integers, find the sum of its elements.
