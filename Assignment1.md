@@ -2,7 +2,8 @@
 # Assignment #1
 
 <p align="center">Vaughn College of Aeronautics and Technology</p>
-<p align="center">Engineering and Technology - Spring 2021</p>
+<p align="center">Engineering and Technology - Spring 2022</p>
+<p align="center">Due: March 9th, 2022</p>
 
 #### Question #1 - Calculating Payroll
 Write a program that calculates the gross pay for someone earning an hourly wage.
