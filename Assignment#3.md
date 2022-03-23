@@ -3,7 +3,7 @@
 
 <p align="center">Vaughn College of Aeronautics and Technology</p>
 <p align="center">Engineering and Technology - Spring 2022</p>
-<p align="center">April 6, 2022</p>
+<p align="center">Due Date: April 6, 2022</p>
 
 <hr />
 
