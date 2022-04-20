@@ -38,4 +38,6 @@ Each robot can only move in 1 direction. Create a square with all 4 robots.
 
 Create a ROS node that spawns up 3 robots next to 1 another (give them some space).
 
-This node should randomly move the first robot in the line and have the other two nodes follow.
+This node should randomly move the first robot (in the line) and have the other two robots follow.
+HINT: There are multiple ways to solve this: The commands that you are sending to the first robot, you can also send the same commands to the second and third
+OR the second and third robot subscribes to the first robots position and moves accordingly 
