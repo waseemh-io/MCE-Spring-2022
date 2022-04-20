@@ -15,7 +15,7 @@ Also note that the start of any particular interval will always be less than
 or equal to the end of that interval.
 
 EXAMPLE:
-intervals =  = [[1, 2], [3, 5], [4, 7], [6, 8], [9, 10]]
+intervals = [[1, 2], [3, 5], [4, 7], [6, 8], [9, 10]]
 
 Sample output should be:
 [[1, 2], [3, 8], [9, 10]]
