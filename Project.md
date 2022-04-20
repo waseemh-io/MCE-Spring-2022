@@ -12,6 +12,8 @@ Create a ROS node that reads the keypad from the user and moves the robot in the
 - Forward key would move the robot in the forward direction
 - Back key would move the robot in the backwards direction
 
+HINT: The walls of the screen are constant. 
+
 ### Group 2:
 
 #### Isa, Joseph, Jo
