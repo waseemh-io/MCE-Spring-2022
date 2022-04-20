@@ -20,6 +20,8 @@ HINT: The walls of the screen are constant.
 
 Create a ROS node that asks the user to pick between “1, 2, 3, 4”. Based on what the user selects, the robot is responsible for drawing the pattern of the number they selected.
 
+HINT: Think of the direction which the robot should be facing and moving towards before moving
+
 ### Group 3:
 
 #### Daniel, Kevin, Rebecca
