@@ -1,5 +1,8 @@
 # Project DUE MAY 13th
 
+NOTES:
+https://github.com/waseemh-io/MRF-SDN/tree/master/ROS-Introduction-and-Examples
+
 Each group is responsible for creating a powerpoint presentation and recorded video giving a basic introduction to ROS and showing your code for achieving the task below. You must give a code walk through and also run your code to see that you have accomplished the task. All students should take part in the presentation. I would recommend going onto a zoom/google meet up and record yourself while sharing your screen.
 
 ### Group 1:
