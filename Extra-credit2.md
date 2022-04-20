@@ -2,6 +2,8 @@
 
 Solve the following problem. Write up a paragraph explaining your thought process to solving this problem.
 
+
+```
 Write a function that takes in a non-empty array of arbitrary intervals,
 merges any overlapping intervals, and returns the new intervals in no
 particular order.
@@ -25,3 +27,5 @@ Sample output should be:
 
 // Merge the intervals [3, 5], [4, 7], and [6, 8].
 // The intervals could be ordered differently.
+
+```
